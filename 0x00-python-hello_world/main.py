@@ -1,2 +1,3 @@
-#!/usr/bin/python3
+#!/usr/bin/python
+# Version 3
 print("Best School")
